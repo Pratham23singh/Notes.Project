@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+SC&family=Dosis:wght@200&family=Open+Sans:wght@500&family=Roboto+Slab:wght@300;400&family=Spectral:wght@200&family=Varela+Round&display=swap');
+
+div.container {
+    font-family: "Varela Round", Verdana, "Geneva", Tahoma, sans-serif;
+}
+
+h1.heading {
+    text-align: center;
+    font-family: "Cormorant SC";
+    font-weight: 700;
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+}
+
+nav.navbar{
+    background-color: black;
+}
+
+div.container {
+    width: 120vh;
+    border: 13px black;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Roboto Slab';
+    font-weight: 900;    
+}
+
+body {
+    /* background-image: url('https://media.istockphoto.com/photos/handwritten-text-texture-background-digital-scrapbook-paper-picture-id617568192?s=170667a'); */
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+div.noteCard {
+    font-weight: 450;
+    font-size: xx-small;
+}
+
+h5#note {
+    font-size: 24px;
+    font-family: 'Roboto Slab';
+    /* background-color: black; */
+    font-weight:400;
+}
+
+div h5{
+    font-family:'Open Sansosis';
+    font-weight: 1000;
+}
